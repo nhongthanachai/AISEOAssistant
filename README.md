@@ -21,3 +21,4 @@ npm run dev
 
 ## Deploy
 เหมาะสำหรับ deploy บน Vercel แบบ serverless
+
